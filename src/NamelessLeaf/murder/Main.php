@@ -62,7 +62,7 @@ class Main extends PluginBase implements Listener {
     $form->setContent("Click To Play Murder Mystery!");
     $form->addButton("§l§cNormal");
     $form->addButton("§l§4Extreme");
-    $form->addButton("Exit")
+    $form->addButton("Exit");
     $form->sendToPlayer($player);
     return $form;
   }
