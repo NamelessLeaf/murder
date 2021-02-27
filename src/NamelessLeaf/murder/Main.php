@@ -49,7 +49,7 @@ class Main extends PluginBase implements Listener {
       }
       switch($result){
         case 0:
-          $player->transfer("us1.falixnodes.net", 56466);
+          $player->transfer("us1.falixnodes.net", 26171);
         break;
           
         case 1:
