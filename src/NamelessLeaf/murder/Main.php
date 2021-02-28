@@ -51,8 +51,10 @@ class Main extends PluginBase implements Listener {
         case 0:
           $player->transfer("us1.falixnodes.net", 26171);
         break;
-          
         case 1:
+          $player->transfer("us1.falixnodes.net", 26171);
+        break;
+        case 2:
          $player->sendMessage("Exit Succsessful");
         break;
     
