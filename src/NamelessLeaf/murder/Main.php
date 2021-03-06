@@ -2,7 +2,7 @@
 
 namespace NamelessLeaf\Murder;
 
-use pocketmine\plugin\PluginBase;
+
 use pocketmine\Player;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
